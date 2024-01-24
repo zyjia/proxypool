@@ -4,6 +4,7 @@ https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://raw.githubusercontent.com/zyjia/ClashX-V2Ray-TopFreeProxy/main/combine/clash.config.yaml
 https://raw.githubusercontent.com/kkkouo/kkkouo.github.io/main/djsppg
 https://raw.githubusercontent.com/ts-sf/fly/main/v2
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_base64_Sub.txt
 https://raw.githubusercontent.com/ZywChannel/free/main/sub
 https://raw.githubusercontent.com/gitbigg/dy/main/jd
 https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
