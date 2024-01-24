@@ -1,6 +1,7 @@
 https://raw.githubusercontent.com/wentao883/TG-wxgqlfx_ZDY/main/pdyjdy_ZDY
 https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/v2ray
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+https://raw.githubusercontent.com/zyjia/ClashX-V2Ray-TopFreeProxy/main/combine/clash.config.yaml
 https://raw.githubusercontent.com/kkkouo/kkkouo.github.io/main/djsppg
 https://raw.githubusercontent.com/ts-sf/fly/main/v2
 https://raw.githubusercontent.com/ZywChannel/free/main/sub
