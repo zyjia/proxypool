@@ -11,10 +11,6 @@
   options:
     url: https://raw.githubusercontent.com/mksshare/mksshare.github.io/main/README.md
 
-- type: webfuzzsub
-  options:
-    url: https://raw.githubusercontent.com/WilliamStar007/ClashX-V2Ray-TopFreeProxy/main/README.md
-
 - type: webfuzz
   options:
     url: https://raw.githubusercontent.com/tolinkshare/freenode/main/README.md
@@ -35,7 +31,7 @@
 # 20230813
 - type: webfuzz
   options:
-    url: https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/proxies_row_url.txt
+    url: https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt
 
 # 20230824
 - type: webfuzz
