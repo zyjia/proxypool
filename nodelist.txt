@@ -15,6 +15,7 @@ https://raw.githubusercontent.com/yuanwangokk/subscription/main/frist.yaml
 https://raw.githubusercontent.com/freeVPNjd/freeVPN1/main/clash
 https://raw.githubusercontent.com/free18/v2ray/main/Clash.yaml
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
+https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/clash.provider.yaml
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/config.yaml
 https://raw.githubusercontent.com/gitbigg/dy/main/jd 
