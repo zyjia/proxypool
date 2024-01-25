@@ -4,7 +4,7 @@ https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://raw.githubusercontent.com/Huibq/TrojanLinks/master/links/vless
 https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt
 https://raw.githubusercontent.com/zyjia/ClashX-V2Ray-TopFreeProxy/main/combine/clash.config.yaml
-https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/mixbase64.txt
+https://raw.githubusercontent.com/zyjia/V2rayCollector/main/mixbase64.txt
 https://raw.githubusercontent.com/kkkouo/kkkouo.github.io/main/djsppg
 https://raw.githubusercontent.com/ts-sf/fly/main/v2
 https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml
