@@ -48,3 +48,8 @@
   options:
     url: https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_Sub.txt
 
+# 20240125
+- type: webfuzz
+  options:
+    url: https://gfw-dongtaiwang.zyjia.workers.dev
+
