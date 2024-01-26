@@ -20,7 +20,6 @@ https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_base6
 https://raw.githubusercontent.com/ZywChannel/free/main/sub
 https://raw.githubusercontent.com/Vauth/node/main/Pro
 https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/clash_v2ray.yml
-https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all4
 https://raw.githubusercontent.com/gitbigg/dy/main/jd
 https://raw.githubusercontent.com/kkkouo/kkkouo.github.io/main/djsdy
 https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
