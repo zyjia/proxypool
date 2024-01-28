@@ -7,6 +7,7 @@ https://raw.githubusercontent.com/zyjia/ClashX-V2Ray-TopFreeProxy/main/combine/c
 https://raw.githubusercontent.com/zyjia/V2rayCollector/main/mixbase64.txt
 https://raw.githubusercontent.com/kkkouo/kkkouo.github.io/main/djsppg
 https://raw.githubusercontent.com/ts-sf/fly/main/v2
+https://bulink.me/sub/gyzf4p/vm
 https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml
 https://raw.githubusercontent.com/ccnndwa/SSR/main/SSR
 https://raw.githubusercontent.com/huaxinCLUB/NodeSpider/master/newYaml/mattkaydiary.yaml
