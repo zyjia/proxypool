@@ -1,55 +1,59 @@
 # 20230708
 - type: webfuzz
   options:
-    url: https://raw.githubusercontent.com/mianfeifq/share/main/README.md
+    url: https://ghproxy.net/https://raw.githubusercontent.com/mianfeifq/share/main/README.md
 
 - type: webfuzz
   options:
-    url: https://raw.githubusercontent.com/abshare/abshare.github.io/main/README.md
+    url: https://ghproxy.net/https://raw.githubusercontent.com/abshare/abshare.github.io/main/README.md
 
 - type: webfuzz
   options:
-    url: https://raw.githubusercontent.com/mksshare/mksshare.github.io/main/README.md
+    url: https://ghproxy.net/https://raw.githubusercontent.com/mksshare/mksshare.github.io/main/README.md
 
 - type: webfuzz
   options:
-    url: https://raw.githubusercontent.com/tolinkshare/freenode/main/README.md
+    url: https://ghproxy.net/https://raw.githubusercontent.com/tolinkshare/freenode/main/README.md
 
 - type: webfuzz
   options:
-    url: https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt
+    url: https://ghproxy.net/https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt
 
 - type: webfuzz
   options:
-    url: https://raw.githubusercontent.com/yaney01/Yaney01/main/README.md
+    url: https://ghproxy.net/https://raw.githubusercontent.com/yaney01/Yaney01/main/README.md
 
 # 20230729
 - type: webfuzz
   options:
-    url: https://raw.githubusercontent.com/HakurouKen/free-node/main/public
+    url: https://ghproxy.net/https://raw.githubusercontent.com/HakurouKen/free-node/main/public
 
 # 20230813
 - type: webfuzz
   options:
-    url: https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt
+    url: https://ghproxy.net/https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt
 
 # 20230824
 - type: webfuzz
   options:
-    url: https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Ray-list-current
+    url: https://ghproxy.net/https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Ray-list-current
 
 # 20230909
 - type: webfuzz
   options:
-    url: https://raw.githubusercontent.com/shabane/kamaji/master/hub/merged.txt
+    url: https://ghproxy.net/https://raw.githubusercontent.com/shabane/kamaji/master/hub/merged.txt
 
 # 20231108
 - type: webfuzz
   options:
-    url: https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_Sub.txt
+    url: https://ghproxy.net/https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_Sub.txt
 
 # 20240125
 - type: webfuzz
   options:
     url: https://gfw-dongtaiwang.zyjia.workers.dev
 
+# 20240130
+- type: webfuzz
+  options:
+    url: https://cfc.glms.gq/sub/067e1c5c-721e-46d7-9678-a5d8858746bd
