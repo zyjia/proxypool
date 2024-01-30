@@ -53,7 +53,12 @@
   options:
     url: https://gfw-dongtaiwang.zyjia.workers.dev
 
-# 20240130
+# 20240130-1
 - type: webfuzz
   options:
     url: https://cfc.glms.gq/sub/067e1c5c-721e-46d7-9678-a5d8858746bd
+
+# 20240130-1
+- type: webfuzz
+  options:
+    url: https://ghproxy.net/https://raw.githubusercontent.com/zyjia/CloudflareConfig/main/sub/config.txt
