@@ -27,7 +27,6 @@ https://ghproxy.net/https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/cla
 https://ghproxy.net/https://raw.githubusercontent.com/Aorp2008/Airp_all_box/main/config.yaml
 https://ghproxy.net/https://raw.githubusercontent.com/shirkerboy/scp/main/sub
 https://ghproxy.net/https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
-https://ghproxy.net/https://raw.githubusercontent.com/freeVPNjd/freeVPN1/main/clash
 https://ghproxy.net/https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
 https://ghproxy.net/https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/config.yaml
 https://ghproxy.net/https://raw.githubusercontent.com/gitbigg/dy/main/jd
