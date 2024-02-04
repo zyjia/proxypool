@@ -1,5 +1,6 @@
 https://ghproxy.net/https://raw.githubusercontent.com/wentao883/TG-wxgqlfx_ZDY/main/pdyjdy_ZDY
 https://ghproxy.net/https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/v2ray
+https://ghproxy.net/https://raw.githubusercontent.com/xbuffer/ClashData/main/Eternity.yaml
 https://ghproxy.net/https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://ghproxy.net/https://raw.githubusercontent.com/adiorany3/clash/main/BYUvmess.yaml
 https://ghproxy.net/https://raw.githubusercontent.com/Huibq/TrojanLinks/master/links/vless
