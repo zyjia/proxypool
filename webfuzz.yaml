@@ -72,3 +72,8 @@
 - type: webfuzz
   options:
     url: https://ghproxy.net/https://raw.githubusercontent.com/abshare/abshare.github.io/main/README.md
+
+# 20240204-2
+- type: webfuzz
+  options:
+    url: https://ghproxy.net/https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/v2ray
