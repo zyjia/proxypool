@@ -63,7 +63,12 @@
   options:
     url: https://ghproxy.net/https://raw.githubusercontent.com/zyjia/CloudflareConfig/main/sub/config.txt
 
-# 20240130-1
+# 20240130-2
 - type: webfuzz
   options:
     url: https://ghproxy.net/https://raw.githubusercontent.com/tolinkshare/freenode/main/README.md
+
+# 20240204-1
+- type: webfuzz
+  options:
+    url: https://ghproxy.net/https://raw.githubusercontent.com/abshare/abshare.github.io/main/README.md
