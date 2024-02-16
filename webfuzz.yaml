@@ -82,3 +82,8 @@
 - type: webfuzz
   options:
     url: https://ghproxy.net/https://raw.githubusercontent.com/mksshare/mksshare.github.io/main/README.md
+
+# 20240215-1
+- type: webfuzz
+  options:
+    url: https://ghproxy.net/https://raw.githubusercontent.com/markbang/chromegopacs/main/hy2pac.txt
