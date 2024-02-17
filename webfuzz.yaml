@@ -1,52 +1,52 @@
 # 20230708
 - type: webfuzz
   options:
-    url: https://ghproxy.net/https://raw.githubusercontent.com/mianfeifq/share/main/README.md
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/mianfeifq/share/main/README.md
 
 - type: webfuzz
   options:
-    url: https://ghproxy.net/https://raw.githubusercontent.com/abshare/abshare.github.io/main/README.md
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/abshare/abshare.github.io/main/README.md
 
 - type: webfuzz
   options:
-    url: https://ghproxy.net/https://raw.githubusercontent.com/mksshare/mksshare.github.io/main/README.md
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/mksshare/mksshare.github.io/main/README.md
 
 - type: webfuzz
   options:
-    url: https://ghproxy.net/https://raw.githubusercontent.com/tolinkshare/freenode/main/README.md
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/tolinkshare/freenode/main/README.md
 
 - type: webfuzz
   options:
-    url: https://ghproxy.net/https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt
 
 - type: webfuzz
   options:
-    url: https://ghproxy.net/https://raw.githubusercontent.com/yaney01/Yaney01/main/README.md
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/yaney01/Yaney01/main/README.md
 
 # 20230729
 - type: webfuzz
   options:
-    url: https://ghproxy.net/https://raw.githubusercontent.com/HakurouKen/free-node/main/public
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/HakurouKen/free-node/main/public
 
 # 20230813
 - type: webfuzz
   options:
-    url: https://ghproxy.net/https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt
 
 # 20230824
 - type: webfuzz
   options:
-    url: https://ghproxy.net/https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Ray-list-current
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Ray-list-current
 
 # 20230909
 - type: webfuzz
   options:
-    url: https://ghproxy.net/https://raw.githubusercontent.com/shabane/kamaji/master/hub/merged.txt
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/shabane/kamaji/master/hub/merged.txt
 
 # 20231108
 - type: webfuzz
   options:
-    url: https://ghproxy.net/https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_Sub.txt
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/All_Configs_Sub.txt
 
 # 20240125
 - type: webfuzz
@@ -61,29 +61,29 @@
 # 20240130-1
 - type: webfuzz
   options:
-    url: https://ghproxy.net/https://raw.githubusercontent.com/zyjia/CloudflareConfig/main/sub/config.txt
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/zyjia/CloudflareConfig/main/sub/config.txt
 
 # 20240130-2
 - type: webfuzz
   options:
-    url: https://ghproxy.net/https://raw.githubusercontent.com/tolinkshare/freenode/main/README.md
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/tolinkshare/freenode/main/README.md
 
 # 20240204-1
 - type: webfuzz
   options:
-    url: https://ghproxy.net/https://raw.githubusercontent.com/abshare/abshare.github.io/main/README.md
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/abshare/abshare.github.io/main/README.md
 
 # 20240204-2
 - type: webfuzz
   options:
-    url: https://ghproxy.net/https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/v2ray
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/v2ray
 
 # 20240204-3
 - type: webfuzz
   options:
-    url: https://ghproxy.net/https://raw.githubusercontent.com/mksshare/mksshare.github.io/main/README.md
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/mksshare/mksshare.github.io/main/README.md
 
 # 20240215-1
 - type: webfuzz
   options:
-    url: https://ghproxy.net/https://raw.githubusercontent.com/markbang/chromegopacs/main/hy2pac.txt
+    url: https://mirror.ghproxy.com/https://raw.githubusercontent.com/markbang/chromegopacs/main/hy2pac.txt
